@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "334d21f0b26d05ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "8eb1571b13218661",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c5f5a6933a52697",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FH/Software Components.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7f65b4ce46805261",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FH/Rechnungswesen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7367c68ac300f093",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FH/Scientific Writing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "042c43ff3f8d6c85",
+    "type": "split",
+    "children": [
+      {
+        "id": "72a8ac108a9301cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1acac379a9264a2a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d854d7506b8bd994",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "88e2c35d05559727",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "03fef07eadb5d6b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "3be406179fc9a748",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "515a2676729ba3ff",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "FH/Scientific Writing.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0534a4e76e2d7500",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "FH/Scientific Writing.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a9ab744592aabb64",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d4c268eae859d5c3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "FH/Scientific Writing.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7367c68ac300f093",
+  "lastOpenFiles": [
+    "FH/Private/Bachelor Thesis Ideas.md",
+    "FH/Private",
+    "Untitled",
+    "FH/Rechnungswesen.md",
+    "FH/Software Components.md",
+    "FH/Scientific Writing.md",
+    "FH/Unternehmensführung.md",
+    "FH/RWI",
+    "FH/SWRM",
+    "Private/Hochwasser Simulation via Topographischer Karte.md",
+    "2024-10-04.md",
+    "Private",
+    "FH",
+    "Welcome.md",
+    "create a link.md"
+  ]
+}
