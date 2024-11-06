@@ -19,7 +19,7 @@
 		- Aktionäre
 		- Aufsichtsrat
 		- Hauptversammlung
-	- Stammkapital 70.000
+	- Grundkapital 70.000
 	- Haftung: Aktionäre mit Höhe der Wertpapiere
 	
 	- Aktionäre bestimmen den Aufsichtsrat
@@ -60,3 +60,66 @@ Stakeholder:
 - Ganz bekannter Stakeholder, der Unangenehm werden kann = Finanzamt
 
 Kest zahlen = Endbesteuert
+
+
+Jahresabschluss benötigt
+- GuV
+- Bilanz
+	- Aktiv/Passiv
+	- Soll/Haben
+	- Mittelherkunft/Mittelverwendung
+
+
+- Aktiva
+	- Anlagevermögen
+		- Materielles Vermögen
+			- Immobilien
+			- KFZ
+			- Maschinen
+			- Büroausstattung
+		- Immaterielles Vermögen
+		- Finanzanlagen
+	- Umlaufvermögen
+		- Forderungen
+		- Vorräte
+		- Kassa+Bank
+
+- Passiva
+	- Eigenkapital
+		- Gewinnrücklagen
+		- Gewinne/Verluste aus Vorjahren
+	- Fremdkapital
+		- Überziehungsramen/Kredite
+		- Verbindlichkeiten
+		- Rückstellungen (Drohende Prozesse, Steuerrückstellungen, Personalrückstellungen)
+
+
+Nennkapital = Stamm- bzw. Grundkapital
+
+
+Abschreibungen für Anlagevermögen
+Mehrere Arten:
+- Lineare (nur die im Jahresabschluss erlaubt)
+- Progressive
+- Degressive
+- ...
+
+
+Geringwertige Wirtschaftsgüter (unter 1200€) können direkt oder über die Zeit abgeschrieben werden
+
+
+Kennzahlen:
+- Liquiditätskennzahlen
+	- Liquidität 1., 2., 3. Grades
+	- Cash Flow
+	- Working Capital
+- Rentabilitätskennzahlen (Rentabilität...Verzinsung)
+	- Umsatzrentabilität
+
+
+Goldene Bilanzierungsregel: 
+> Langftistiges Vermögen soll mit langfristigem Kapital finanziert werden, kurzfristiges Vermögen mit kurzfristigem Kapital
+
+
+Erfolgsrechnung in der GuV
+
