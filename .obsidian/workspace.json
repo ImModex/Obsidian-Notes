@@ -4,53 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8eb1571b13218661",
+        "id": "076b4ff768671d48",
         "type": "tabs",
         "children": [
           {
-            "id": "2c5f5a6933a52697",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FH/Software Components.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Software Components"
-            }
-          },
-          {
-            "id": "7f65b4ce46805261",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FH/Rechnungswesen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Rechnungswesen"
-            }
-          },
-          {
-            "id": "7367c68ac300f093",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FH/Rechnungswesen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Rechnungswesen"
-            }
-          },
-          {
-            "id": "1c80a7bc429958a3",
+            "id": "c4edd0725127b103",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -63,8 +21,7 @@
               "title": "Unternehmensführung"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,15 +162,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1c80a7bc429958a3",
+  "active": "c4edd0725127b103",
   "lastOpenFiles": [
+    "FH/Computer Graphics and Mixed Reality.md",
+    "FH/Unternehmensführung.md",
     "FH/Scientific Writing.md",
     "FH/Private/Bachelor Thesis Ideas.md",
     "FH/Private",
     "Untitled",
     "FH/Rechnungswesen.md",
     "FH/Software Components.md",
-    "FH/Unternehmensführung.md",
     "FH/RWI",
     "FH/SWRM",
     "Private/Hochwasser Simulation via Topographischer Karte.md",
