@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FH/Unternehmensführung.md",
+                "file": "FH/Scientific Writing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Unternehmensführung"
+              "title": "Scientific Writing"
             }
           }
         ]
@@ -164,8 +164,8 @@
   },
   "active": "c4edd0725127b103",
   "lastOpenFiles": [
-    "FH/Computer Graphics and Mixed Reality.md",
     "FH/Unternehmensführung.md",
+    "FH/Computer Graphics and Mixed Reality.md",
     "FH/Scientific Writing.md",
     "FH/Private/Bachelor Thesis Ideas.md",
     "FH/Private",
