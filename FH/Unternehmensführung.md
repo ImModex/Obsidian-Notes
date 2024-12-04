@@ -197,3 +197,179 @@ Im Krankenstand ist man küngbar weil *die Kündigung* **zustellbar** *ist*
 Im Urlaub nicht unbedingt (außer man sagt dem Chef, wo man auf Urlaub ist \[nicht empfohlen])
 
 
+
+
+### Unternehmenskultur Fallbeispiel 2.12. NACHHOLEN
+
+
+
+
+## Organisation
+
+**Formelle vs. Informelle Organisation**
+Formale / Formelle Abläufe eines Unternehmens... wie laufen diese ab?
+
+- Formelle Organisation
+	- Alle Kommunikationen sind geregelt
+- Informelle Organisation
+	- Mitarbeiter unterhalten sich beim Essen...
+	- Verkürzen offizielle Instanzenwege (im positiven)
+	- Achtung: Gerüchteküche!
+	- Positiv: Information wird schneller geteilt
+
+
+- Überorganisation
+	- Zu viele Vorgaben und fixe Abläufe
+- Unterorganisation
+	- Zu wenige Vorgaben und fixe Abläufe
+
+
+Umso größer das Unternehmen, desto mehr muss organisiert werden. Dementsprechend werden Informationen auch nur langsam weitergeleitet und die Kosten sind hoch.
+
+
+**Organisationseinheiten sind gegliedert in...**
+- Stelle
+	- Kleinste organisatorische Einheit
+	- In der Stellenbeschreibung beschrieben
+	- Personenunabhängig
+	- Stelle mit Leitungsbefugnis wird *Instanz* genannt
+
+
+
+Im Organigramm ist die Controlling Stelle nur der Geschäftsleitung unterstellt, sie macht:
+- Rechnungswesen
+- Planung
+- Steuerung
+
+Eine typische Stabsstelle ist die IT Abteilung, da sie alle anderen Stellen serviciert.
+
+
+- Einliniensystem
+	- Jede Stelle ist genau einer Instanz unterstellt
+	- Vorteile: Eindeutig, klar definiert, transparent
+	- Nachteile: Lange Informationswege
+- Mehrliniensystem
+	- Eine Stelle ist mehreren Instanzen unterstellt
+	- Vorteile: Qualifizierte Weisungen, Schnelligkeit
+	- Nachteile: Gefahr von Verantwortungsdiffusion, wen bediene ich zuerst?
+
+
+
+Zentralisation vs. Dezentralisation
+Funktionale- vs. Spartenorganisation
+
+Sonderformen der Aufbauorganisation
+- Stablinienorganisation
+- Matrixorganisation
+
+Change Management
+
+
+## Personal
+
+Stufenbau der Rechtsordnung
+
+1. EU Verordnung
+2. Österreichische Verfassung
+3. Bundesgesetze
+4. Landesgesetze
+5. Verordnungen / Erlässe
+6. Kollektivvertrag
+7. Dienstvertrag (Dienstzettel - solange bis man den Vertrag bekommt)
+
+
+Sozialpartnerschaft
+- Wirtschaftskammer
+- Landwirtschaftskammer
+- Arbeiterkammer NICHT dabei!
+
+
+Kündigung
+- Fristgebunden
+- Muss keinen Grund haben
+- Dienstgeber im Arbeitsverfassungsgesetz
+- Dienstnehmer im Angestelltengesetz
+
+Entlassung
+- Fristlos
+- Muss begründet sein
+	- Gründe sind im Dienstvertrag (z.B. Diebstahl, Gewalt, verraten von Dienstgeheimnissen,...)
+	- Grund muss NACHWEISBAR sein
+
+
+- Unberechtigter vorzeitiger Austritt
+	- Man erscheint einfach nicht mehr
+	- Man geht ins Gefängnis
+- Berechtigter vorzeitiger Austritt
+	- Gewalt von Dienstgeber auf Dienstnehmer
+	- Starke Verbale Gewalt von Dienstgeber auf Dienstnehmer
+	- Dienstgeber verschweigt stark ansteckende Krankheit
+	- Dienstgeber bezahlt den Gehalt nicht aus (Dienstnehmer muss dem Dienstgeber eine Nachfrist einräumen)
+
+
+"Insolvenzentgeltsicherungsfond" - Falls Unternehmen insolvent geht und die Mitarbeiter nicht bezahlen kann, wird der Lohn hier bezogen
+
+
+Austrittsgründe:
+- Keine Lust mehr
+- Pension
+- TOD
+- Ablauf des Dienstvertrages
+
+
+Urlaub **darf nicht** ausgezahlt werden, jedoch passiert es trotzdem! (Wo kein Kläger, da kein Richter)
+
+
+Überstunden vs Mehrstunden
+- Gesetzlich 40 Stunden, aber von Kollektivverträgen meist auf 38,5 bzw 38h verringert
+- Teilzeit 50% = 20 Stunden, 25%,...
+- Überstunden = Stunden ÜBER die Normalarbeitszeit 
+	- Mit Aufschlag bezahlt (1.5x, 2x,...)
+	- Falls nicht ausbezahlt, muss auch 1.5h - 2h,... frei gegeben werden
+- Mehrstunden = Wenn Teilzeitarbeiter mehr als ihre Arbeitszeit arbeiten müssen 
+	- Mit Aufschlag Bezahlt
+
+
+
+
+**Personalbedarfsplanung ist Prüfungsrelevant**
+
+
+
+Mitarbeiter können gesucht werden
+ - Innerhalb des Unternehmens
+	 - Weniger Einarbeitungszeit
+	 - Höheres Vertrauen
+	 - Weniger Kosten
+	 - "Ein Loch stopfen, dafür wo anders eines aufreißen"
+	 - "Wieso wurde X gewählt und nicht Y?" -> Eventuell Demotivation
+ - Außerhalb des Unternehmens
+	 - "Mundpropaganda", Online Inserate, Zeitung,...
+	 - Kostet Geld
+
+
+
+
+## Motivation und Führung
+
+Intrinsische Motivation - Ziele von sich selbst aus erreichen
+Extrinsische Motivation - Ziele erreichen, weil andere es von einem erwarten
+
+Bedürfnispyramide von Maslow
+Zwei-Faktor Ding
+
+Führungstheorien:
+
+*Eigenschaftstheorie*
+Gute Führungskräfte zeichnen sich durch Eigenschaften wie Intelligenz, Alter,... aus
+
+*Verhaltenstheorie*
+Je nachdem wie sich die Führungskraft verhält bzw. wie der Führungsstil ist, ist unterschiedlich
+
+*Situative Führungstheorien*
+Der Erfolg der Führungskraft kommt auf das Verhalten in einer gewissen Situation an
+
+
+
+Theorie X: Arbeiter sind von selbst aus faul
+Theorie Y: Arbeiter sind wissbegierig
