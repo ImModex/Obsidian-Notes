@@ -373,3 +373,63 @@ Der Erfolg der Führungskraft kommt auf das Verhalten in einer gewissen Situatio
 
 Theorie X: Arbeiter sind von selbst aus faul
 Theorie Y: Arbeiter sind wissbegierig
+
+
+
+
+## Bilanzanalyse
+
+Kennzahlen:
+- Cash Flow
+- Working Capital (WC)
+	- Umlaufvermögen - Kurzfristige Verbindlichkeiten
+	- Kurzfristige Verbindlichkeiten: Lieferanten, Bank (Kredit, Kontokorrentkredit,...)
+
+
+
+Bankenkrise 2007: Bonität von Personen / Unternehmen _muss_ festgestellt werden bevor ein ("fauler") Kredit vergeben wird. Dementsprechend müssen Unternehmen mit schlechterer Bonität _mehr_ Zinsen zahlen.
+
+
+In der Vokswirtschaft gibt es "Rating Agenturen" - alle 3 bekanntesten in Amerika. 
+Die EU hat keine, weil man sich nicht darauf einigen konnten wer die Leitung ist. (xD)
+
+-> Die Volkswirtschaftliche Bonität der EU Staaten wird von allen 3 Rating Agenturen in Amerika festgestellt.
+
+
+"Die richtigen Dinge tun" = Effektivität
+
+Aufwand / Ertrag -> Buchhaltung
+Kosten / Erlös -> Kostenrechnung
+Auszahlungen / Einzahlungen -> Cash Flow
+
+
+Budget = Jahresabschluss in die Zukunft
+Am Ende des Jahres das Soll (Budget) mit dem Ist vergleichen.
+
+
+### Cash Flow Statement
+**CASH FLOW STATEMENT KOMMT ZUR PRÜFUNG**
+
+"Liquide Mittel kommen ins Unternehmen oder fließen ab"
+
+Jahresabschluss ist aus der GuV des Vorjahres zu nehmen. (Gewinn / Jahresüberschuss)
+Alles was hinein oder heraus kommt hat _ausschließlich_ mit Bargeld zu tun
+
+Bevor der Cashflow verpflichtend war, war der Gewinn ausschlaggebend. Gewinn hat aber keine Aussagekraft über die Veränderung der Liquidität, dementsprechend auch ein schlechter Anhaltspunkt.
+
+
+#### Operativer Cash Flow
+![[Pasted image 20241209172042.png]]
+
+#### Investitionscashflow
+Tätigt das Unternehmen eine Investition (Maschine kaufen,...), fließt Geld ab.
+
+#### Finanzierungscashflow
+- Wenn Gesellschafter Gelder investieren (Kapitalzufluss), überweisen sie das Geld zum Unternehmen und Geld fließt zu.
+- Wenn das Unternehmen Anteile an die Gesellschafter auszahlt, fließt Geld ab. Genauso wie wenn Gewinne in Form der Dividende ausgeschüttet werden.
+- Wenn das Unternehmen sich einen Kredit aufnimmt, wird die Liquidität erhöht und es ist ein **PLUS** im Cash Flow
+
+#### Gesamtcashflow = Operativer Cashflow + Investitionscashflow + Finanzierungscashflow
+
+Kontrollieren kann man den Cashflow wenn sich die Liquidität des Vorjahres um genau den Cashflow zum aktuellen unterscheidet.
+
